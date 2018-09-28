@@ -1,15 +1,5 @@
-# 
+# My Deep Learing Exercise
 
-tensorflow
-tf_basic_op.ipynb
-tf
-back probagation
-cost function
+## Purpose
 
-
-examples
-tenserflow or keras
-DNN
-CNN
-LSTM
-GRU
+Experiment and learn neural-network stuff. 
