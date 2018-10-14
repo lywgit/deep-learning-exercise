@@ -31,3 +31,5 @@ matrix multiplication.
 because the pixels are independent.
 2. If M is is generated from matrix multiplication, there is a hidden structure that could to be learned.
 Therefore fewer free parameters is needed to reprduce/describe the data.  
+
+![result](result.png)
